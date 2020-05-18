@@ -334,6 +334,7 @@ header {
 
 /******************** TASTEFUL RECIPES ENDS **********************/
 /********************* DISCOVER OUR MENU ************************/
+
 .image-group {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -346,3 +347,11 @@ header {
 }
 
 /******************* DISCOVER OUR MENU ENDS *********************/
+/********************* THE PERFECT BLEND ***********************/
+
+.perfect-blend {
+  background: url(/images/perfect-blend.jpg) center no-repeat;
+  background-size: cover;
+}
+
+/******************* THE PERFECT BLEND ENDS ********************/
