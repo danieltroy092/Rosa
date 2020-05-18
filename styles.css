@@ -30,6 +30,7 @@ body {
 
 section {
   padding: 3.9rem 0;
+  overflow: hidden;
 }
 
 img {
@@ -408,7 +409,7 @@ footer {
 }
 
 .footer-content {
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 .footer-content h4 {
